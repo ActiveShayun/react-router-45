@@ -1,0 +1,10 @@
+ ul{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+nav a.active{
+  color: rgb(205, 169, 50);
+  text-decoration: underline;
+}
